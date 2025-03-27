@@ -48,6 +48,8 @@
     "portfolio-student": "Etudiant",
     "portfolio-sport-title": "Sport",
     "portfolio-sport-description": "Application web de gestion d'entrainements sportifs. Side project le plus complet que j'ai réalisé pour mes amis et moi-même afin de gérer nos entrainements de musculation. Développé en Typescript (React/Express) et PostgreSQL.",
+    "portfolio-next-template-title": "Next.js template",
+    "portfolio-next-template-description": "Template d'une application Next.js incluant des composants personnalisés Material UI comme une table de données avec filtres, champs de formulaire...",
     "portfolio-recipes-title": "Nos recettes",
     "portfolio-recipes-description": "Application web de partage de recettes. Mon premier projet en PHP d'abord développé pour une utilisation familiale, nous l'avons ensuite utilisé comme base de refactoring en cours de 'Cycle de vie des applications' en DUT. Développé en PHP/MySQL.",
     "portfolio-the-periodic-table-nft-title": "La table périodique NFT",
